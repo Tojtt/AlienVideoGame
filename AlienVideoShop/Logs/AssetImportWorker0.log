@@ -164,3 +164,4 @@ Received Import Request.
 Start importing Assets/GuidedProject/AlienVideoGameShop/Prefabs/AlienVideoGameShop_StarterEnvironment.prefab using Guid(a6d80765aedf8b940bc1d65943d787c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '894759e269d3614e03a62811c53d7c07') in 2.223603 seconds 
   Import took 2.233403 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
